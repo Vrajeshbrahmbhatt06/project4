@@ -1,0 +1,29 @@
+body {
+    background-color:black;
+    font-family:arial;
+    color:white;
+}
+
+
+h1{
+    display:inline;
+    color:grey;
+    font-family: Verdana;
+    display:inline-block;
+}
+
+.maindiv{
+    /* display: flex;
+    justify-content: center; */
+    align-items: center;
+    background-color: white;
+    color:black;
+    width:300px;
+    padding:20px;
+    border-radius: 25px;
+    background-position: center;
+}
+
+#p, #r, #t, #y{
+   background-color : yellow;
+}
